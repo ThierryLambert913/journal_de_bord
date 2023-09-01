@@ -9,7 +9,7 @@ Expliquer en 5 à 10 lignes ce qui vous intéresse en TIM. Parlez de ce qui vous
 [Ce tutoriel](https://guides.github.com/features/mastering-markdown/) vous aidera à avoir la bonne syntaxe lorsque vous écrirez dans votre journal. Vous pouvez aussi vous référez à [cette *cheatsheet*](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md). 
 
 # Entrée 1
-Il y a plusieur raisons pourquoi j'ai choisis Tim, notamment :
+Il y a plusieur raisons pourquoi j'ai choisis __Tim__, notamment :
 * J'ai toujours eu un intérêt pour l'informatique;
 * J'aime les jeux-vidéos;
 * Le programme comporte plusieur domaine, ce qui me permet de m'essayer a différent types de travail;
