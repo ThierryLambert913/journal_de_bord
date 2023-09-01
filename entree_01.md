@@ -14,3 +14,5 @@ Il y a plusieur raisons pourquoi j'ai choisis __Tim__, notamment :
 * J'aime les jeux-vidéos;
 * Le programme comporte plusieur domaine, ce qui me permet de m'essayer a différent types de travail;
 * 💰
+
+Partiellement dû à ces points, je veux avoir un travail dans l'industrie du jeux vidéo. 
