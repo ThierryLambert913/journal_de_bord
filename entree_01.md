@@ -10,3 +10,6 @@ Expliquer en 5 à 10 lignes ce qui vous intéresse en TIM. Parlez de ce qui vous
 
 # Entrée 1
 Il y a plusieur raisons pourquoi j'ai choisis Tim, notamment :
+* J'ai toujours eu un intérêt pour l'informatique;
+* J'aime les jeux-vidéos;
+* Le programme comporte plusieur domaine, ce qui me permet de m'essayer a différent types de travail.
