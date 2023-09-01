@@ -13,5 +13,4 @@ Il y a plusieur raisons pourquoi j'ai choisis Tim, notamment :
 * J'ai toujours eu un intérêt pour l'informatique;
 * J'aime les jeux-vidéos;
 * Le programme comporte plusieur domaine, ce qui me permet de m'essayer a différent types de travail;
-
-*💰
+* 💰
