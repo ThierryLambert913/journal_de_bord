@@ -14,7 +14,6 @@ L'oeuvre *Bulle* m'interpelle beaucoup puisque c'est une oeuvre interactive qui 
 [Dead cells et ses trailer](https://www.youtube.com/watch?v=gX4cGcwmdsY) non seulement le jeu est un exemple de bonne chose à faire lors qu'on créé un roguelike, mais ses trailers sont les cerises sur le gateau.
 ### Lien 4 
 [Fallout New Vegas](https://store.steampowered.com/agecheck/app/22380/) L'ambience western crée à la fois par les armes, la musique et l'environnement de ce jeux est très plaisante. Malgré le gameplay traditionelle de Bethesda, le jeux réussis à ce démarqué grâce à son scénario qui dépassent l'attende établis par le reste de la série.
-
 ### Lien 5 
 [Terraria](https://terraria.org/) Terraria a été l'une de mes première expérience en terme de jeux vidéo, une expérience que je ne peux que recommander au autre de vivre
 
