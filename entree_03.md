@@ -14,7 +14,7 @@ Game Designer et Programmeur
 J'ai toujours été un grand fan de John Romero car il a réussi à changé l'industrie à tout jamais.
 
 ### Dans 5 ans
-Où vous voyez-vous dans 5 ans? 
+En tant que programmeur pour une compagnie,
 
 ### Projets
 Expliquez un ou des projets que vous aimeriez faire. 
