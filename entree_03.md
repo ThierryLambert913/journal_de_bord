@@ -14,7 +14,7 @@ Game Designer et Programmeur
 J'ai toujours été un grand fan de John Romero car il a réussi à changé l'industrie à tout jamais.
 
 ### Dans 5 ans
-En tant que programmeur pour une compagnie,
+En tant que programmeur pour une compagnie de jeux au Québec, comme Gearbox ou Ubisoft.
 
 ### Projets
-Expliquez un ou des projets que vous aimeriez faire. 
+J'ai entendu dire que l'un des projets de 3e années était la création d'un jeu, ce projet est ce qui m'a convaincu de joindre TIM.
