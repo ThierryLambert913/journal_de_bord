@@ -11,7 +11,7 @@ Je suis intéressez dans tout ce qui concerne la création de jeux-vidéo et dan
 Game Designer et Programmeur
 
 ### Identification
-Nommez une entreprise et un artiste auxquels vous vous identifiez et expliquez pourquoi. 
+J'ai toujours été un grand fan de John Romero car il a réussi à changé l'industrie à tout jamais.
 
 ### Dans 5 ans
 Où vous voyez-vous dans 5 ans? 
