@@ -2,13 +2,13 @@
 ## Plan de carrière
 
 ### Présentation
-Parlez de vous. 
+Bonjour, je m'appelle Thierry, j'ai une grande passion pour les jeux-vidéos et pour la technologie.
 
 ### Intérêts dans le domaine
-Parlez de vos intérêts en multimédia. 
+Je suis intéressez dans tout ce qui concerne la création de jeux-vidéo et dans la programmation en générale.
 
 ### Emplois qui vous intéressent
-Nommez deux emplois.
+Game Designer et Programmeur
 
 ### Identification
 Nommez une entreprise et un artiste auxquels vous vous identifiez et expliquez pourquoi. 
