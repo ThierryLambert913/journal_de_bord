@@ -16,7 +16,7 @@ Le travaille consiste à transformer un scénario écrit en jeu-vidéo, ce qui i
 Un webmestre est quelqu'un qui doit s'occupper de la conception et de la maintenance d'un site web. Selon mes recherches, faire ce travail dans un bureaux ne semble pas être obligatoire. Il faut posséder de la polyvalence en multimédia. C'est le métier en informatique qui me semble le plus consistent. La répétition est parfois bonne, mais à certains moments elle peut être ennuyante.
 
 ### Emploi 4 - Technicien en Informatique. 
-
+Accomplissement d'activités relatives au développement et à l'entretien de systèmes d'information et d'applications Web. Souvent dans des bureaux ou des écoles. La plupart du temps, les technicien ont une passion pour la technologie. Souvent, les techniciens n'ont pas besoins de travailler avec une équipe. Être tout seul pour un travail fait aussi en sorte que vous êtes l'unique responsables pour vos échecs.
 
 ### Emploi 5 - Vérificateur de produits multimédias.
 
