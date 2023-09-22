@@ -16,7 +16,7 @@ Concepteur de jeux-vidéo. Le travaille consiste à transformer un scénario éc
 Webmestre. Un webmestre est quelqu'un qui doit s'occupper de la conception et de la maintenance d'un site web. Selon mes recherches, faire ce travail dans un bureaux ne semble pas être obligatoire. Il faut posséder de la polyvalence en multimédia. C'est le métier en informatique qui me semble le plus consistent. La répétition est parfois bonne, mais à certains moments elle peut être ennuyante.
 
 ### Emploi 4 - Identification
-Technicien en Informatique
+Technicien en Informatique. 
 
 ### Emploi 5 - Identification
 Vérificateur de produits multimédias.
