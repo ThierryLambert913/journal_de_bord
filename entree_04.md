@@ -19,6 +19,6 @@ Un webmestre est quelqu'un qui doit s'occupper de la conception et de la mainten
 Accomplissement d'activités relatives au développement et à l'entretien de systèmes d'information et d'applications Web. Souvent dans des bureaux ou des écoles. La plupart du temps, les technicien ont une passion pour la technologie. Souvent, les techniciens n'ont pas besoins de travailler avec une équipe. Être tout seul pour un travail fait aussi en sorte que vous êtes l'unique responsables pour vos échecs.
 
 ### Emploi 5 - Vérificateur de produits multimédias.
-
+Quelqu'un dont le métier consiste à assurer la qualité d'un produit à caractère promotionnel, commercial, informatif, formatif ou ludique et de corriger les problèmes remarqués. ILs faut connaitre les tendances de l'audience cible, et être capable de recevoir de la critique. Ce métier est intéressant pour moi car j'aime le média que ce travail doit observé. La plupart de mes recherches sur ce travail ne m'ont pas vraiment donner de description concrête.
 
 
