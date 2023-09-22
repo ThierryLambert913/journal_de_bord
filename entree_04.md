@@ -13,7 +13,7 @@ Développeur de jeux-vidéo. Les tâches sont souvent de la programmation, de l'
 Concepteur de jeux-vidéo. Le travaille consiste à transformer un scénario écrit en jeu-vidéo, ce qui inclus la création de personnage, d'environnement et de scène. Être un Game Designer requiert un certain niveau de créativité. Ce métier est lié à la création de jeu-vidéo, et j'aime beaucoup cet industrie. Vu que ce métier est un métier créatif, il y a toujours le risque de subir le symptome de la page blanche.
 
 ### Emploi 3 - Identification
-Animateur multimédia
+Webmestre. Un webmestre est quelqu'un qui doit s'occupper de la conception et de la maintenance d'un site web. Selon mes recherches, faire ce travail dans un bureaux ne semble pas être obligatoire. Il faut posséder de la polyvalence en multimédia. C'est le métier en informatique qui me semble le plus consistent. La répétition est parfois bonne, mais à certains moments elle peut être ennuyante.
 
 ### Emploi 4 - Identification
 Technicien en Informatique
